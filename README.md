@@ -30,7 +30,7 @@ The goal of this project is to develop a robust system for detecting and trackin
 * Implement an alert system that notifies when a human is detected.
 * Fine-tune the alert threshold to reduce false positives and negatives.
 
-** User Interface:**
+**User Interface:**
 * Develop a user-friendly interface for real-time monitoring and configuration adjustments.
 * Display tracked human positions and relevant information on the interface.
 
